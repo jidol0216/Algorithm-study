@@ -1,6 +1,6 @@
 import cv2
 
-image = cv2.imread(r"ch21\opencv\people.jpg")
+image = cv2.imread(r"ch21\opencv\people1.jpg")
 
 
 
